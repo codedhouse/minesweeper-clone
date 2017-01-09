@@ -1,4 +1,4 @@
-package csc4380.vkeegan1.Project1;
+package com.vivienkeegan.minesweeper;
 
 import java.util.Random;
 

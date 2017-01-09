@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: csc4380.vkeegan1.Project1.Minesweeper
+Main-Class: com.vivienkeegan.minesweeper.Minesweeper
 
